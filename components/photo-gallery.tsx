@@ -11,7 +11,7 @@ export default function PhotoGallery() {
   "/image4..jpg",
   "/image5..jpg",
   "/image6..jpg",
-  ])
+  ]);
 
   return (
     <div className="max-w-5xl mx-auto">
