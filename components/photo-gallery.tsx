@@ -5,12 +5,12 @@ import Image from 'next/image'
 
 export default function PhotoGallery() {
   const [photos] = useState([
-    '/couple-photo-romantic.jpg',
-    '/happy-couple-smiling.png',
-    '/romantic-moment.jpg',
-    '/couple-together.jpg',
-    '/cute-couple-photo.jpg',
-    '/couple-love-moments.jpg',
+    "/image1..jpg",
+  "/image2..jpg",
+  "/image3..jpg",
+  "/image4..jpg",
+  "/image5.jpg",
+  "/image6..jpg",
   ])
 
   return (
@@ -38,7 +38,7 @@ export default function PhotoGallery() {
       </div>
 
       <p className="text-center text-pink-500 mt-8 text-sm">
-        💌 You can add your own photos here later
+        💌
       </p>
     </div>
   )
