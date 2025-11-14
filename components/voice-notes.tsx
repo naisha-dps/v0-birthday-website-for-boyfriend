@@ -7,10 +7,10 @@ interface VoiceNotesProps {
 }
 
 const voiceNotes = [
-  { title: 'Good morning baby', file: '/voice-notes/good-morning.mp3' },
-  { title: 'I miss you', file: '/voice-notes/miss-you.mp3' },
-  { title: 'Your girl loves you', file: '/voice-notes/loves-you.mp3' },
-  { title: 'Special birthday audio', file: '/voice-notes/birthday.mp3' }
+  { title: 'Good morning baby', file: '/voice-notes/good-morning.m4a' },
+  { title: 'I miss you', file: '/voice-notes/miss-you.m4a' },
+  { title: 'I love you', file: '/voice-notes/loves-you.mp4a' },
+  { title: 'Special birthday audio', file: '/voice-notes/birthday.m4a' }
 ]
 
 export default function VoiceNotes({ isModal = false }: VoiceNotesProps) {
