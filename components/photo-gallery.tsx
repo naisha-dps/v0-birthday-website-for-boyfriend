@@ -9,7 +9,7 @@ export default function PhotoGallery() {
   "/image2..jpg",
   "/image3..jpg",
   "/image4..jpg",
-  "/image5.jpg",
+  "/image5..jpg",
   "/image6..jpg",
   ])
 
