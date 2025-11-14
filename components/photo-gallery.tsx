@@ -5,12 +5,12 @@ import Image from 'next/image'
 
 export default function PhotoGallery() {
   const [photos] = useState([
-    '/image1..jpg',
-  '/image2..jpg',
-  '/image3..jpg',
-  '/image4..jpg',
-  '/image5..jpg',
-  '/image6..jpg',
+/public/image1..jpg
+/public/image2..jpg
+/public/image3..jpg
+/public/image4..jpg
+/public/image5..jpg
+/public/image6..jpg
   ]);
 
   return (
